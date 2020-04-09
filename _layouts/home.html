@@ -1,0 +1,24 @@
+---
+layout: body
+---
+
+    <header>
+        <h1>{{ page.header | newline_to_br }}</h1>
+        {{ content }}
+    </header>
+    <section class="tiles">
+        {% assign arr = '/posts' | get_pages | sort: 'date' | reverse %}
+        {% for post in arr %}
+            <article class="{{ post.home_style }}">
+                <span class="image">
+                    <img src="{{ post.home_img | relative_url }}" alt="" />
+                </span>
+                <a href="{{ post.url | relative_url }}">
+                    <h2>{{ post.title }}</h2>
+                    <div class="content">
+                        {{ post.excerpt | markdownify }}
+                    </div>
+                </a>
+            </article>
+        {% endfor %}
+    </section>

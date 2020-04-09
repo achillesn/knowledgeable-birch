@@ -1,0 +1,24 @@
+<!-- Footer -->
+<footer id="footer">
+    <div class="inner">
+        {% assign enabled_is_not_empty = site.data.contact.enabled | is_not_empty %}
+        {% if enabled_is_not_empty %}
+            {% include contact.html %}
+        {% endif %}
+        {% assign enabled_is_not_empty = site.data.social.enabled | is_not_empty %}
+        {% if enabled_is_not_empty %}
+            {% include social.html %}
+        {% endif %}
+        <ul class="copyright">
+            <li>
+                {{ site.data.footer.copyright }}
+                &nbsp;
+                {% for link in site.data.footer.links %}
+                    <a href="{{ link.url }}" {% assign new_window_is_not_empty = link.new_window | is_not_empty %}
+                    {% if new_window_is_not_empty %}target="_blank" rel="noopener"
+                    {% endif %}>{{ link.text }}</a>.
+                {% endfor %}
+            </li>
+        </ul>
+    </div>
+</footer>

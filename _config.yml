@@ -1,27 +1,28 @@
-title: Phantom
-baseurl: /
-permalink: '/:title/'
+---
+title: anikon
+baseurl: "/"
+permalink: "/:title/"
 none: ''
 sass:
   indentWidth: 4
   style: nested
   precision: 10
 plugins:
-  - jekyll-menus
+- jekyll-menus
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - ssg-build.sh
-  - LICENSE.md
-  - README.md
-  - netlify.toml
-  - stackbit-build.sh
-  - stackbit-pull.js
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
+- ssg-build.sh
+- LICENSE.md
+- README.md
+- netlify.toml
+- stackbit-build.sh
+- stackbit-pull.js
 collections:
   posts:
-    permalink: '/posts/:title/'
+    permalink: "/posts/:title/"

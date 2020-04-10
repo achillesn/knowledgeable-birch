@@ -1,8 +1,6 @@
 ---
 title: Home
-header: |-
-  Erat ut Sapien, mus curae, morbi dictum duis
-  aenean auctor at Dictum.
+header: ''
 layout: home
 menu:
   main:

@@ -52,13 +52,11 @@ fields:
   config:
     required: true
 pages:
-- _posts/2017-04-01-pretium.md
 - _posts/2017-04-02-dictum.md
 - _posts/2017-04-04-nullam.md
 - _posts/2017-04-05-dolor.md
 - _posts/2017-04-06-ipsum.md
 - _posts/2017-04-08-aliquam.md
-- _posts/2017-04-09-tempus.md
 - _posts/2017-04-10-feugiat.md
 - _posts/2017-04-11-lorem.md
 - _posts/2017-04-12-magna.md

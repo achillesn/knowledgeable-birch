@@ -53,9 +53,7 @@ fields:
     required: true
 pages:
 - _posts/2017-04-02-dictum.md
-- _posts/2017-04-05-dolor.md
 - _posts/2017-04-08-aliquam.md
-- _posts/2017-04-10-feugiat.md
 - _posts/2017-04-12-magna.md
 - _posts/2020-04-09-testus.md
 - _posts/2020-04-10-dryas.md

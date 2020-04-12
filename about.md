@@ -63,7 +63,7 @@ In 2020 he co-founded the band **Imperfect ID.**
 **1994** - Factory of NATIONAL ELECTRICAL COMPANY of Papaio Faliron, Greece (Photography)  
 **1993** - Theatre "Palladium", Ioannina, Greece (Slide Show & Performance)  
 **1992** - Gallery Hdk Berlin, Germany (Photography - Installations)  
-**1991** - Room of Art Moabit, Berlin, Germany (Slide Show and Performance)  
+**1991** - Moabit room of Art, Berlin, Germany (Slide Show and Performance)  
 **1990** - TACHELES Berlin, Germany ( Photography - Installations -Slide show and Performance)  
 **1988** - Gallery Hdk Berlin, Germany (Photography - Installations)  
 **1986** - Photographic Centre Athens, Greece (Photography)

@@ -1,6 +1,6 @@
 ---
 title: Home
-header: Visual Poetry
+header: ''
 layout: home
 menu:
   main:

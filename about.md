@@ -23,9 +23,9 @@ Achilles Nasios is an art-photographer, video-artist, art-teacher and performer.
 
 From 1995-2007 he taught theory and applied Art Photography in the University of Western Attica, in the University of Ioannina and in the Photography Team of the cultural Center of Peania.
 
-After 2007 he moved to Sweden where he continued teaching through the net and organizing workshops, participating in exhibitions but also curating them up to now. He also founded the independed digital film production company Anikon.
+After 2007 he moved to Sweden where he continued teaching through the net and organizing workshops, participating in exhibitions but also curating them up to now. He also founded the independed digital film production company **Anikon**.
 
-From 2015 onwards he started developing a new pedagogic method of approaching photography based on games. Until this very day several types of photo games have been played successfully.
+From 2015 onwards he started developing the **PhotoGames,** a new pedagogic method of approaching photography based on games. Until this very day several types of photo games have been played successfully in Greece, Cyprus and Sweden.
 
 In 2019 he co-founded the Network of Arts and Sciences **Hocus Photus**.
 

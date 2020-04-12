@@ -23,6 +23,8 @@ After 2007 he moved to Sweden where he continued teaching through the net and or
 
 From 2015 onwards he started developing a new pedagogic method of approaching photography based on games. Until this very day several types of photo games have been played successfully.
 
-In 2019 he co-found the Network of Arts and Sciences HocusPhotus.
+In 2019 he co-founded the Network of Arts and Sciences **Hocus Photus**.
+
+In 2020 he co-founded the band **Imperfect ID.**
 
 Selected exhibitions…

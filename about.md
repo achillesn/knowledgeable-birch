@@ -31,7 +31,7 @@ In 2019 he co-founded the Network of Arts and Sciences **Hocus Photus**.
 
 In 2020 he co-founded the band **Imperfect ID.**
 
-Selected exhibitions
+**Exhibitions:**
 
 2010 - One Water, Gallery anikon, Järna (Film and video-dance)
 

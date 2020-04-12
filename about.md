@@ -64,6 +64,6 @@ In 2020 he co-founded the band **Imperfect ID.**
 **1993** - Theatre "Palladium", Ioannina, Greece (Slide Show & Performance)  
 **1992** - Gallery Hdk Berlin, Germany (Photography - Installations)  
 **1991** - Moabit room of Art, Berlin, Germany (Performance)  
-**1990** - TACHELES Berlin, Germany ( Photography - Installations -Slide show and Performance)  
+**1990** - TACHELES Berlin, Germany ( Photography - Installations - Slide show and Performance)  
 **1988** - Gallery Hdk Berlin, Germany (Photography - Installations)  
 **1986** - Photographic Centre Athens, Greece (Photography)

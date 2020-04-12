@@ -59,7 +59,7 @@ In 2020 he co-founded the band **Imperfect ID.**
 \- Galerie de Château d’ Eau – Toulouse, France (Photography)  
 \- Figurative Centre of Veria (Photography)  
 \- Photographic Centre of Skopelos (Photography)  
-\- Figurative Centre of Modern Art Larissa (Photography)  
+\- Figurative Centre of Modern Art, Larissa (Photography)  
 **1998** – Gallery "Naus Thalasofilitos", Thessalonica (Photography)  
 **1996** - Hotel "Plaza ", Kifissia-Athens (Photography - Installations)  
 **1994** - Factory of NATIONAL ELECTRICAL COMPANY of Papaio Faliron (Photography)  

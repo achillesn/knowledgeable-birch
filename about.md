@@ -2,7 +2,6 @@
 layout: page
 title: About
 img_src: "/images/Axilleas14_aravantinoue_IMG_2906.jpg"
-published: false
 
 ---
 Achilles Nasios is an art-photographer, video-artist, art-teacher and performer. He was born and rased in Greece.

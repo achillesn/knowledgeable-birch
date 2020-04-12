@@ -24,7 +24,7 @@ After 2007 he moved to Sweden where he continued teaching through the net and or
 
 From 2015 onwards he started developing the <a href="https://photogames.tk/all_about/" target="blank">**PhotoGames**</a>, a new pedagogic method of approaching photography based on games. Until this very day several types of photo games have been played successfully in Greece, Cyprus and Sweden.
 
-In 2019 he co-founded the Network of Arts and Sciences href="https://hocusphotus.com/" target="blank">**Hocus Photus**</a>.
+In 2019 he co-founded the Network of Arts and Sciences <a href="https://hocusphotus.com/" target="blank">**Hocus Photus**</a>.
 
 In 2020 he co-founded the band **Imperfect ID.**
 

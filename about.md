@@ -33,6 +33,20 @@ In 2020 he co-founded the band **Imperfect ID.**
 
 Selected exhibitions
 
+2010 - One Water, Gallery anikon, Järna (Film and video-dance)
+
+2009 - One Water, Gula Villan, Järna (Film and video-art)
+
+2008 - Clarion Video Festival, Stockholm (video-art)
+
+Gallery anikon, Järna (Photography)
+
+2007 - 1 Award in video-art at Cyprus International Film Festival (CIFF 07)
+
+\- Gallery P53, Athens (Photography)
+
+\- Festival 0, Kalamata (video-art)
+
 2006 - Museum of Photography Thessalonica (Photography)
 
 \- 2nd ATHENS VIDEO FESTIVAL (Keyword 1-Video installation)

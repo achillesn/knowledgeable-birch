@@ -2,9 +2,6 @@
 enabled: true
 title: Follow
 follow_section:
-- title: Sound Cloud
-  icon: fa-soundcloud
-  link_url: https://soundcloud.com/achillesn
 - title: Facebook
   icon: fa-facebook
   link_url: https://www.facebook.com/achilles.nasios
@@ -20,3 +17,6 @@ follow_section:
 - title: Linked In
   icon: fa-linkedin
   link_url: https://www.linkedin.com/in/achilles-nasios-4646137b/
+- title: Sound Cloud
+  icon: fa-soundcloud
+  link_url: https://soundcloud.com/achillesn

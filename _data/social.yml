@@ -2,6 +2,9 @@
 enabled: true
 title: Follow
 follow_section:
+- title: You Tube
+  icon: fa-youtube
+  link_url: https://www.youtube.com/channel/UCp7tSQ18bqi_q_wzYh_qW4A?view_as=subscriber
 - title: Facebook
   icon: fa-facebook
   link_url: https://www.facebook.com/achilles.nasios

@@ -19,6 +19,7 @@ fields:
   config:
     required: true
 pages:
+- about.md
 - consequat-dolor.md
 - generic.md
 - tempus-etiam.md

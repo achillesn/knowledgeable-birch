@@ -53,9 +53,9 @@ In 2020 he co-founded the band **Imperfect ID.**
 \- Philosophical School at Athens – Works and e-days. Potential pictures, Technology and reality (Works-Video Projections).  
 **2002** - Photographic Centre Athens, Greece (Photo-installation)  
 **2001** - Artistic Organism of Municipality at Volos. Greece (Photography)  
-\- Palaia Sagiada at Thesprotia, Greece (Photography)  
+\- Palaia Sagiada at Thesprotia, Greece (Photo-installation)  
 \- Centre of Figurative Creation Rethimno, Greece (Photography)  
-**2000** - Museum of Contemporary Art, Thessalonica. Greece (Photo Installations)   
+**2000** - Museum of Contemporary Art, Thessalonica. Greece (Photo Installations)  
 \- Galerie de Château d’ Eau - Toulouse, France (Photography)  
 \- Figurative Centre of Veria, Greece (Photography)  
 \- Photographic Centre of Skopelos, Greece (Photography)  

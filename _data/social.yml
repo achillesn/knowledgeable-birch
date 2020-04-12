@@ -2,6 +2,9 @@
 enabled: true
 title: Follow
 follow_section:
+- title: Linked In
+  icon: fa-linkedin
+  link_url: https://www.linkedin.com/in/achilles-nasios
 - title: Facebook
   icon: fa-facebook
   link_url: https://www.facebook.com/achilles.nasios

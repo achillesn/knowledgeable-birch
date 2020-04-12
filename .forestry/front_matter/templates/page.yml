@@ -20,3 +20,4 @@ fields:
     required: true
 pages:
 - about.md
+- links.md

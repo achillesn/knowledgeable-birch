@@ -33,9 +33,9 @@ In 2020 he co-founded the band **Imperfect ID.**
 
 **Exhibitions:**
 
-2010 - One Water, Gallery anikon, Järna (Film and video-dance)
+2010 - One Water project, Gallery anikon, Järna (Film and video-dance)
 
-2009 - One Water, Gula Villan, Järna (Film and video-art)
+2009 - One Water project, Gula Villan, Järna (Film and video-art)
 
 2008 - Clarion Video Festival, Stockholm (video-art)
 

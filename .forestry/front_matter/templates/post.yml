@@ -52,6 +52,5 @@ fields:
   config:
     required: true
 pages:
-- _posts/2017-04-12-magna.md
 - _posts/2020-04-09-testus.md
 - _posts/2020-04-10-dryas.md

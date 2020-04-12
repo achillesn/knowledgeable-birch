@@ -11,12 +11,9 @@ Achilles Nasios is an art-photographer, video-artist, art-teacher and performer.
 
 **Studies:**
 
-**1983-1985** Film Academy **(FAMU)** in Prague. Photography and Cinema Studies.
-
-**1986-1991** – Fine Art School in Berlin **(HDK)**. Diplom in Visual Communication and Curating.
-
-**2003-2005** - Fine Art School in Athens **(ASFA)**. Master in Digital Arts.
-
+**1983-1985** Film Academy **(FAMU)** in Prague. Photography and Cinema Studies.  
+**1986-1991** – Fine Art School in Berlin **(HDK)**. Diplom in Visual Communication and Curating.  
+**2003-2005** - Fine Art School in Athens **(ASFA)**. Master in Digital Arts.  
 **2009-2010** - Royal Fine Art School in Stockholm **(KKH)**. Project in Video Art.
 
 **Experience:**

@@ -60,7 +60,7 @@ In 2020 he co-founded the band **Imperfect ID.**
 \- Figurative Centre of Modern Art, Larissa, Greece (Photography)  
 **1998** – Gallery "Naus Thalasofilitos", Thessalonica, Greece (Photography)  
 **1996** - Hotel "Plaza ", Kifissia-Athens, Greece (Photography - Installations)  
-**1994** - Factory of NATIONAL ELECTRICAL COMPANY of Papaio Faliron, Greece (Photography)  
+**1994** - Factory of NATIONAL ELECTRICAL COMPANY of Paleo Faliron, Greece (Photography)  
 **1993** - Theatre "Palladium", Ioannina, Greece (Slide Show & Performance)  
 **1992** - Gallery Hdk Berlin, Germany (Photography - Installations)  
 **1991** - Moabit room of Art, Berlin, Germany (Performance)  

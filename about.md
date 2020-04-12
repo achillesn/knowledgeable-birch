@@ -33,6 +33,8 @@ In 2020 he co-founded the band **Imperfect ID.**
 
 **Exhibitions:**
 
+2011 - Megaron, Athens Concert Hall. (Video-Art projection)
+
 2010 - One Water project, Gallery anikon, Järna (Film and video-dance)
 
 2009 - One Water project, Gula Villan, Järna (Film and video-art)

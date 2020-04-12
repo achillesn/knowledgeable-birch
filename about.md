@@ -38,10 +38,10 @@ In 2020 he co-founded the band **Imperfect ID.**
 **2015** - Archeological Museum of Igoumenitsa, Greece (Performance)  
 **2014** – Archeological Museum of Igoumenitsa, Greece (Photography and Performance)  
 **2011** - Megaron, Athens Concert Hall. Greece (Video-Art projection)  
-**2010** - One Water project, Gallery anikon, Järna, Sweden (Film and video-dance)  
+**2010** - One Water project, Gallery Anikon, Järna, Sweden (Film and video-dance)  
 **2009** - One Water project, Gula Villan, Järna, Sweden (Film and video-art)  
 **2008** - Clarion Video Festival, Stockholm, Sweden (video-art)  
-\- Gallery anikon, Järna, Sweden (Photography)  
+\- Gallery Anikon, Järna, Sweden (Photography)  
 **2007** - 1 Award in video-art at Cyprus International Film Festival **(CIFF 07)**  
 \- Gallery P53, Athens (Photography)  
 \- Festival 0, Kalamata (video-art)  

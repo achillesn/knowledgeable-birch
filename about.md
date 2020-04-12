@@ -33,6 +33,14 @@ In 2020 he co-founded the band **Imperfect ID.**
 
 **Exhibitions:**
 
+2018 - Museum of Photography, Thessalonica (Photography)
+
+2016 – Kunsthall Charlottenborg. The Copenhagen Spring Exhibition. (Video-art installation).
+
+2015 - Archeological Museum of Igoumenitsa, Greece (Performance)
+
+2014 – Archeological Museum of Igoumenitsa, Greece (Photography and Performance)
+
 2011 - Megaron, Athens Concert Hall. (Video-Art projection)
 
 2010 - One Water project, Gallery anikon, Järna (Film and video-dance)

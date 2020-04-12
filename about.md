@@ -47,7 +47,7 @@ In 2020 he co-founded the band **Imperfect ID.**
 \- Festival 0, Kalamata (video-art)  
 **2006** - Museum of Photography Thessalonica, Greece (Photography)  
 \- 2nd ATHENS VIDEO FESTIVAL (Keyword 1-Video installation)  
-\- Micropolis/ [www.netodyssey.gr](http://www.netodyssey.gr/) (Antimatter- Video)  
+\- Micropolis (Video-art)  
 **2005** - Museum of Photography Thessalonica (Photography)  
 \- Platforma video zero-five Athens (Video projection)  
 \- Philosophical School at Athens – Works and e-days. Potential pictures, Technology and reality (Works-Video Projections).  

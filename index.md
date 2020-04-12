@@ -7,5 +7,4 @@ menu:
     weight: 1
 
 ---
-The visible world seems to be comprised of endless archetypal images. Although those images are not necessarily carriers of meaning they possess the quality to transfer the spectator closer and deeper in the world of the unconscious. Forms get released from the obvious of denotation and begin to act exclusively as connotations. Meaning is acquired according to the importance that things are given, but the images do not always demand   
-interpretation; they only expect permission to become a source of inspiration. That's the meaning of anikon. An image without image.
+If one is interested in more than a mere external description of the world, one has to find the path of observing the inner self. It is the knowledge of this personal picture that brings the realisation of our invisible flaws. Hence by covering the obvious in a veil of silence we can reach the Desired Image.

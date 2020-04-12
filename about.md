@@ -56,7 +56,7 @@ In 2020 he co-founded the band **Imperfect ID.**
 \- Palaia Sagiada at Thesprotia (Photography)  
 \- Centre of Figurative Creation Rethimno (Photography)  
 **2000** - Museum of Contemporary Art, Thessalonica. (Photo Installations)   
-\- Galerie de Château d’ Eau – Toulouse, France (Photography)  
+\- Galerie de Château d’ Eau - Toulouse, France (Photography)  
 \- Figurative Centre of Veria (Photography)  
 \- Photographic Centre of Skopelos (Photography)  
 \- Figurative Centre of Modern Art, Larissa (Photography)  

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Locus Secretus
+title: Locus Arcanus
 home_style: style2
 home_img: "/images/anikon-logo-newestwebig.jpg"
 excerpt: Abstract

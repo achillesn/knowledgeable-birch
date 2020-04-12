@@ -53,7 +53,7 @@ In 2020 he co-founded the band **Imperfect ID.**
 \- Micropolis/ [www.netodyssey.gr](http://www.netodyssey.gr/) (Antimatter- Video)  
 **2005** - Museum of Photography Thessalonica (Photography)  
 \- Platforma video zero-five Athens (Video projection)  
-\- Philosophical School at Athens – Works and **e** - days. Potential pictures, Technology and reality (Works-Video Projections).  
+\- Philosophical School at Athens – Works and e - days. Potential pictures, Technology and reality (Works-Video Projections).  
 **2002** - Photographic Centre Athens (Photography -installation)  
 **2001** - Museum of Contemporary Art, Thessalonica. (Photo Installations)  
 \- Artistic Organism of Municipality at Volos (Photography)  

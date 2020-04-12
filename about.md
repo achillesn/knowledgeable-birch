@@ -33,8 +33,7 @@ In 2020 he co-founded the band **Imperfect ID.**
 
 **Exhibitions:**
 
-2019 - 
-
+**2019** - iFocus photo gallery, Athens (Photo installation)  
 **2018** - Museum of Photography, Thessalonica (Photography)  
 **2017** - Trii Art Hub Gallery, Athens (Photo-installation)  
 **2016** – Kunsthall Charlottenborg. The Copenhagen Spring Exhibition. (Video-art installation).  
@@ -50,25 +49,9 @@ In 2020 he co-founded the band **Imperfect ID.**
 \- Festival 0, Kalamata (video-art)  
 **2006** - Museum of Photography Thessalonica (Photography)  
 \- 2nd ATHENS VIDEO FESTIVAL (Keyword 1-Video installation)  
-\- Micropolis/ [www.netodyssey.gr](http://www.netodyssey.gr/) (Antimatter- Video)
-
-_Projections:_
-
-**ATHENS**
-
-25 Febr. – “Fournos”  
-28 Febr. – “Barrio”  
-09 Mart. – “Athens Comedy Club”  
-10 Mart. – “Bios”  
-19 Mart. – “Ash in Art”  
-21 Mart. – “Epi Kolono Theater”
-
-**THESSALONIKI**
-
-11/12 Mart. – “Geni Hamam”  
-17 Mart. – “Museum of Cinematography”  
-**2005** - Platforma video zero-five Athens (Video projection)  
-\- Museum of Photography Thessalonica (Photography)  
+\- Micropolis/ [www.netodyssey.gr](http://www.netodyssey.gr/) (Antimatter- Video)  
+**2005** - Museum of Photography Thessalonica (Photography)  
+\- Platforma video zero-five Athens (Video projection)  
 \- Philosophical School at Athens – Works and **e** - days. Potential pictures, Technology and reality (Works-Video Projections).  
 **2002** - Photographic Centre Athens (Photography -installation)  
 **2001** - Museum of Contemporary Art, Thessalonica. (Photo Installations)  

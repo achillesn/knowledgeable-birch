@@ -35,6 +35,7 @@ In 2020 he co-founded the band **Imperfect ID.**
 
 **2019** - iFocus photo gallery, Athens (Photo installation)  
 **2018** - Museum of Photography, Thessalonica (Photography)  
+\- Gallery En Plo, Paphos, Cyprus (Photography)  
 **2017** - Trii Art Hub Gallery, Athens (Photo-installation)  
 **2016** – Kunsthall Charlottenborg. The Copenhagen Spring Exhibition. (Video-art installation).  
 **2015** - Archeological Museum of Igoumenitsa, Greece (Performance)  

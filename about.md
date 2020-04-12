@@ -49,7 +49,7 @@ In 2020 he co-founded the band **Imperfect ID.**
 
 2008 - Clarion Video Festival, Stockholm (video-art)
 
-Gallery anikon, Järna (Photography)
+\- Gallery anikon, Järna (Photography)
 
 2007 - 1 Award in video-art at Cyprus International Film Festival (CIFF 07)
 

@@ -17,7 +17,7 @@ Achilles Nasios is an art-photographer, video-artist, art-teacher and performer.
 
 **2003-2005** - Fine Art School in Athens **(ASFA)**. Master in Digital Arts.
 
-**2009-2010** - Royal Fine Art School in Stockholm **(KKH)**. Master in Video Art.
+**2009-2010** - Royal Fine Art School in Stockholm **(KKH)**. Project in Video Art.
 
 **Experience:**
 

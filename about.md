@@ -33,98 +33,56 @@ In 2020 he co-founded the band **Imperfect ID.**
 
 **Exhibitions:**
 
-2018 - Museum of Photography, Thessalonica (Photography)
-
-2016 – Kunsthall Charlottenborg. The Copenhagen Spring Exhibition. (Video-art installation).
-
-2015 - Archeological Museum of Igoumenitsa, Greece (Performance)
-
-2014 – Archeological Museum of Igoumenitsa, Greece (Photography and Performance)
-
-2011 - Megaron, Athens Concert Hall. (Video-Art projection)
-
-2010 - One Water project, Gallery anikon, Järna (Film and video-dance)
-
-2009 - One Water project, Gula Villan, Järna (Film and video-art)
-
-2008 - Clarion Video Festival, Stockholm (video-art)
-
-\- Gallery anikon, Järna (Photography)
-
-2007 - 1 Award in video-art at Cyprus International Film Festival (CIFF 07)
-
-\- Gallery P53, Athens (Photography)
-
-\- Festival 0, Kalamata (video-art)
-
-2006 - Museum of Photography Thessalonica (Photography)
-
-\- 2nd ATHENS VIDEO FESTIVAL (Keyword 1-Video installation)
-
+2018 - Museum of Photography, Thessalonica (Photography)  
+2016 – Kunsthall Charlottenborg. The Copenhagen Spring Exhibition. (Video-art installation).  
+2015 - Archeological Museum of Igoumenitsa, Greece (Performance)  
+2014 – Archeological Museum of Igoumenitsa, Greece (Photography and Performance)  
+2011 - Megaron, Athens Concert Hall. (Video-Art projection)  
+2010 - One Water project, Gallery anikon, Järna (Film and video-dance)  
+2009 - One Water project, Gula Villan, Järna (Film and video-art)  
+2008 - Clarion Video Festival, Stockholm (video-art)  
+\- Gallery anikon, Järna (Photography)  
+2007 - 1 Award in video-art at Cyprus International Film Festival (CIFF 07)  
+\- Gallery P53, Athens (Photography)  
+\- Festival 0, Kalamata (video-art)  
+2006 - Museum of Photography Thessalonica (Photography)  
+\- 2nd ATHENS VIDEO FESTIVAL (Keyword 1-Video installation)  
 \- Micropolis/ [www.netodyssey.gr](http://www.netodyssey.gr/) (Antimatter- Video)
 
 _Projections:_
 
 **ATHENS**
 
-25 Febr. – “Fournos”
-
-28 Febr. – “Barrio”
-
-09 Mart. – “Athens Comedy Club”
-
-10 Mart. – “Bios”
-
-19 Mart. – “Ash in Art”
-
+25 Febr. – “Fournos”  
+28 Febr. – “Barrio”  
+09 Mart. – “Athens Comedy Club”  
+10 Mart. – “Bios”  
+19 Mart. – “Ash in Art”  
 21 Mart. – “Epi Kolono Theater”
 
 **THESSALONIKI**
 
-11/12 Mart. – “Geni Hamam”
-
-17 Mart. – “Museum of Cinematography”
-
-2005 - Platforma video zero-five Athens (Video projection)
-
-\- Museum of Photography Thessalonica (Photography)
-
-\- Philosophical School at Athens – Works and **e** - days. Potential pictures, Technology and reality (Works-Video Projections).
-
-2002 - Photographic Centre Athens (Photography -installation)
-
-2001 - Museum of Contemporary Art, Thessalonica. (Photo Installations)
-
-\- Artistic Organism of Municipality at Volos (Photography)
-
-\- Palaia Sagiada at Thesprotia (Photography)
-
-\- Centre of Figurative Creation Rethimno (Photography)
-
-2000 - Figurative Centre of Veria (Photography)
-
-\- Photographic Centre of Skopelos (Photography)
-
-\- Figurative Centre of Modern Art Larissa (Photography)
-
-\- Galerie de Château d’ Eau – Toulouse, France (Photography)
-
-\- Museum of Photography Thessalonica (Photography -installation)
-
-1998 – Gallery "Naus Thalasofilitos", Thessalonica (Photography)
-
-1996 - Hotel "Plaza ", Kifissia-Athens (Photography - Installations)
-
-1994 - Factory of NATIONAL ELECTRICAL COMPANY of Papaio Faliron (Photography)
-
-1993 - Theatre "Palladium", Ioannina (Slide Show & Performance)
-
-1992 - Gallery Hdk Berlin (Photography - Installations)
-
-1991 - Room of Art Moabit, Berlin (Slide Show and Performance)
-
-1990 - TACHELES Berlin ( Photography - Installations -Slide show and Performance)
-
-1988 - Gallery Hdk Berlin (Photography - Installations)
-
+11/12 Mart. – “Geni Hamam”  
+17 Mart. – “Museum of Cinematography”  
+2005 - Platforma video zero-five Athens (Video projection)  
+\- Museum of Photography Thessalonica (Photography)  
+\- Philosophical School at Athens – Works and **e** - days. Potential pictures, Technology and reality (Works-Video Projections).  
+2002 - Photographic Centre Athens (Photography -installation)  
+2001 - Museum of Contemporary Art, Thessalonica. (Photo Installations)  
+\- Artistic Organism of Municipality at Volos (Photography)  
+\- Palaia Sagiada at Thesprotia (Photography)  
+\- Centre of Figurative Creation Rethimno (Photography)  
+2000 - Figurative Centre of Veria (Photography)  
+\- Photographic Centre of Skopelos (Photography)  
+\- Figurative Centre of Modern Art Larissa (Photography)  
+\- Galerie de Château d’ Eau – Toulouse, France (Photography)  
+\- Museum of Photography Thessalonica (Photography -installation)  
+1998 – Gallery "Naus Thalasofilitos", Thessalonica (Photography)  
+1996 - Hotel "Plaza ", Kifissia-Athens (Photography - Installations)  
+1994 - Factory of NATIONAL ELECTRICAL COMPANY of Papaio Faliron (Photography)  
+1993 - Theatre "Palladium", Ioannina (Slide Show & Performance)  
+1992 - Gallery Hdk Berlin (Photography - Installations)  
+1991 - Room of Art Moabit, Berlin (Slide Show and Performance)  
+1990 - TACHELES Berlin ( Photography - Installations -Slide show and Performance)  
+1988 - Gallery Hdk Berlin (Photography - Installations)  
 1986 - Photographic Centre Athens (Photography)

@@ -20,5 +20,6 @@ fields:
     required: true
 pages:
 - about.md
+- dictum-gr.md
 - dictum.md
 - links.md

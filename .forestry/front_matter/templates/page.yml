@@ -20,4 +20,5 @@ fields:
     required: true
 pages:
 - about.md
+- dictum.md
 - links.md

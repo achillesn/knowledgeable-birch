@@ -2,6 +2,9 @@
 layout: page
 title: Dictum
 img_src: "/images/dictum.jpg"
+menu:
+  main:
+    weight: 3
 
 ---
 In the past, during the era of analogue photography I believed that the most important quest in photography is the image. I was interested in the content, the composition, the light, the technique. Through constant practice I conquered and learned how to use a variety of codes in the extend, that I stopped noticing them. My teaching profession gave me the ability to practice the utterance of visual speech while as an artist I could use all my know how to do research.

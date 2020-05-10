@@ -40,7 +40,7 @@ In 2020 he co-founded the band **Imperfect ID.**
 **2009** - One Water project, Gula Villan, Järna, Sweden (Film and video-art)  
 **2008** - Clarion Video Festival, Stockholm, Sweden (video-art)  
 \- Gallery Anikon, Järna, Sweden (Photography)  
-**2007** - 1 Award in video-art at Cyprus International Film Festival **(CIFF 07)**  
+**2007** - 1st Award in video-art at Cyprus International Film Festival **(CIFF 07)**  
 \- Gallery P53, Athens (Photography)  
 \- Festival 0, Kalamata (video-art)  
 **2006** - Museum of Photography Thessalonica, Greece (Photography)  

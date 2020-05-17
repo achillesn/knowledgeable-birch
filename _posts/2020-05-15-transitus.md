@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Transitus
-home_style: style5
+home_style: style6
 home_img: "/images/anikon-logo-newestwebig.jpg"
 excerpt: Experiential
 date: 2020-05-15 22:00:00 +0000

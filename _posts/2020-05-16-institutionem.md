@@ -23,3 +23,5 @@ img_src: ''
 **2000** _(Photographic Centre, Athens)_
 
 <iframe src="https://player.vimeo.com/video/3769640" width="1150" height="882" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/3769640" width="1017" height="780" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>

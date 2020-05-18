@@ -18,7 +18,7 @@ img_src: ''
 
 **2005** _(ASFA, Athens)_
 
-<iframe src="https://player.vimeo.com/video/3759031" width="1150" height="780" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/3759031" width="1017" height="780" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 **2000** _(Photographic Centre, Athens)_
 

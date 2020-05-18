@@ -8,9 +8,7 @@ date: 2020-05-16 22:00:00 +0000
 img_src: ''
 
 ---
-**2016** _(Kunsthall Charlottenborg, Copenhagen)_
-
-<iframe src="https://player.vimeo.com/video/158936852" width="1150" height="780" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+**2016** _(Kunsthall Charlottenborg, Copenhagen)_<iframe src="https://player.vimeo.com/video/158936852" width="1150" height="780" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 **2010** _(KKH Stockholm)_
 

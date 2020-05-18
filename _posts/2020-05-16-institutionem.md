@@ -9,8 +9,7 @@ img_src: ''
 
 ---
 ![](/images/w-888.jpg)  
-**2016** (Kunsthall Charlottenborg, Copenhagen)
-![](/images/w2-888.jpg)  
+**2016** (Kunsthall Charlottenborg, Copenhagen)  
 <iframe src="https://player.vimeo.com/video/158936852" width="888" height="681" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
 ![](/images/w-888.jpg)  
 **2010** (KKH Stockholm)

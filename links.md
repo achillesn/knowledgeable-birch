@@ -5,7 +5,6 @@ img_src: "/images/links.jpg"
 menu:
   main:
     weight: 4
-    title: links
 published: false
 
 ---

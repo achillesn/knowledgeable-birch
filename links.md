@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Links
-img_src: ''
+img_src: "/images/links.jpg"
 published: false
 
 ---

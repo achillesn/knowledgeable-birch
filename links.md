@@ -5,7 +5,6 @@ img_src: "/images/links.jpg"
 menu:
   main:
     weight: 3
-published: false
 
 ---
 **NFT_ART COLLECTION:**                           

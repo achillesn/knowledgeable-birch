@@ -5,4 +5,6 @@ img_src: ''
 published: false
 
 ---
-dicitur
+**NFT_ART Collection:**                       https://opensea.io/Anikon
+
+PHOTOGRAPHIC ART COLLETION:                   https://artportable.com/

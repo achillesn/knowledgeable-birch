@@ -2,6 +2,9 @@
 enabled: true
 title: Follow
 follow_section:
+- title: Instagram-nft
+  icon: fa-instagram
+  link_url: https://www.instagram.com/anikon_art/
 - title: Twitter
   icon: fa-twitter
   link_url: https://twitter.com/anikon_nft

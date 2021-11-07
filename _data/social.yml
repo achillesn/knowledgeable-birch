@@ -2,6 +2,9 @@
 enabled: true
 title: Follow
 follow_section:
+- title: Twitter
+  icon: fa-twitter
+  link_url: https://twitter.com/anikon_nft
 - title: Facebook
   icon: fa-facebook
   link_url: https://www.facebook.com/achilles.nasios

@@ -7,9 +7,6 @@ menu:
     weight: 3
 
 ---
-**NFT_ART COLLECTION:**  
-<a href="https://opensea.io/Anikon" target="blank">opensea.io/Anikon</a>
-
 **PHOTOGRAPHIC ART COLLECTION:**  
 <a href="https://artportable.com/en/profile/@achilles.nasios" target="blank">artportable.com</a>
 
@@ -22,3 +19,8 @@ menu:
 **imperfect id** (music project)
 
 <a href="https://imperfectid.com/">imperfectid.com</a>
+
+**NFT_ART COLLECTIONS:**  
+<a href="https://opensea.io/Anikon" target="blank">opensea.io/Anikon</a>
+
+<a href="https://objkt.com/profile/tz1Xc2qxwZsC5VtQKjccZwi4FZ24yNjiMNHj/activity" target="blank">objkt.com</a>

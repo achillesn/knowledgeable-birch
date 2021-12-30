@@ -16,6 +16,10 @@ menu:
 **PHOTO-GAMES:**  
 <a href="https://photogames.tk/" target="blank">photogames.tk</a>
 
+**PHASES MAGAZINE:**
+
+<a href="https://www.phasesmag.com/achilles-nasios/">Achilles Nasios</a>
+
 **imperfect id** (music project)
 
 <a href="https://imperfectid.com/">imperfectid.com</a>

@@ -24,7 +24,8 @@ menu:
 
 <a href="https://imperfectid.com/">imperfectid.com</a>
 
-**NFT_ART COLLECTIONS:**  
+**NFT_ART COLLECTIONS:**
+
 <a href="https://opensea.io/Anikon" target="blank">opensea.io/Anikon</a>
 
 <a href="https://objkt.com/profile/tz1Xc2qxwZsC5VtQKjccZwi4FZ24yNjiMNHj/activity" target="blank">objkt.com</a>

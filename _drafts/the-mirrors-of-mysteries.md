@@ -2,7 +2,7 @@
 layout: page
 title: The Mirrors of Mysteries
 home_style: style1
-home_img: "/images/07-wild-fire.jpg"
+home_img: "/images/anikon-logo-newestwebig.jpg"
 excerpt: Video-art
 date: 2022-02-17 23:00:00 +0000
 img_src: ''

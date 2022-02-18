@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Mirrors of Mysteries
-home_style: style1
+home_style: style4
 home_img: "/images/anikon-logo-newestwebig.jpg"
 excerpt: Video-art. 2022
 date: 2022-02-17 23:00:00 +0000

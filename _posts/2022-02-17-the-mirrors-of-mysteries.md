@@ -12,7 +12,7 @@ My new video-art project. Images and music inspired from the Ancient Mysteries. 
 
 All videos and musical compositions are created by Achilles Nasios in 2022. You can also find as NFTs on https://opensea.io/collection/the-mirrors-of-mysteries
 
-* <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/13433061814907304828495733336145460039256652925841842689972098314246612320257" target="blank"> Mamma Quilla</a>  - (_Click to navigate to the video)_
+* <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/13433061814907304828495733336145460039256652925841842689972098314246612320257" target="blank"> **Mamma Quilla**</a>  - (_Click to navigate to the video)_
 
   Mamma Quilla was the Inca moon goddess. She was the patron of calendars and feasts, as she was thought to be responsible for the passage of time and the seasons.
 

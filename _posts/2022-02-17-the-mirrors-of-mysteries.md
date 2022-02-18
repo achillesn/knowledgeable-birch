@@ -21,3 +21,5 @@ All videos and musical compositions are created by Achilles Nasios in 2022. You 
 * <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/13433061814907304828495733336145460039256652925841842689972098315346123948033" target="blank"> **Anunnaki**</a>  - (_Click to navigate to the video)_
 
   In the 19th century archaeologists exploring the ancient ruins of Nineveh discovered 22,000 clay tablets which are directly connected to the Anunnaki. The ancient Sumerians claim that they obtained their knowledge of past events from the teachings and writings of the Anunnaki (“Those Who from Heaven to Earth Came”). According to the Ancient Alien theory, the Anunnaki genetically altered primitive mankind and created a labor force which allowed them to mine gold faster.
+
+![](/images/04-annunaki.jpg)

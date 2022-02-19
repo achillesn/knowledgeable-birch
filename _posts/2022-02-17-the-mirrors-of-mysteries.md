@@ -31,5 +31,12 @@ All videos and musical compositions are created by Achilles Nasios in 2022. You 
 
 ![](/images/14-aditya.jpg)
 
-* <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/13433061814907304828495733336145460039256652925841842689972098317545147203585" target="blank"> <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/13433061814907304828495733336145460039256652925841842689972098317545147203585" target="blank"> **Hierophant**</a>  - (_Click to navigate to the video)_
-* Several thousand years ago, before the dawn of historical times, in a remote region of the Himalayas lived a group of remarkable individuals whose existence is shrouded in mystery. The Rishis. These beings are considered ancient sages that possessed divine knowledge. They where seers, they had the gift of inner vision and could see the past, present, and future. Aditya was one of the 4 Rishis.
+*  <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/13433061814907304828495733336145460039256652925841842689972098316445635575809" target="blank"> **Aditya**</a>  - (_Click to navigate to the video)_
+
+  Several thousand years ago, before the dawn of historical times, in a remote region of the Himalayas lived a group of remarkable individuals whose existence is shrouded in mystery. The Rishis. These beings are considered ancient sages that possessed divine knowledge. They where seers, they had the gift of inner vision and could see the past, present, and future. Aditya was one of the 4 Rishis.
+
+![](/images/sibyl-1.png)
+
+* <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/13433061814907304828495733336145460039256652925841842689972098319744170459137" target="blank"> **Sibyl**</a>  - (_Click to navigate to the video)_
+
+  Sibyl were prophetesses or oracles in Ancient Greece. The sibyls prophesied at holy sites. At first, there appears to have been only a single Sibyl. “The Sibyl, with frenzied mouth uttering things not to be laughed at, unadorned and unperfumed, yet reaches to a thousand years with her voice by aid of the god.” _Heraklitus_

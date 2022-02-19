@@ -52,3 +52,9 @@ All videos and musical compositions are created by Achilles Nasios in 2022. You 
 * <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/13433061814907304828495733336145460039256652925841842689972098321943193714689" target="blank"> **Persephone**</a>  - (_Click to navigate to the video)_
 
   The soul of man -often called Psyche, and in the Eleusinian Mysteries symbolized by Persephone- is essentially a spiritual thing. Its true home is in the higher worlds, where, free from the bondage of material form and material concepts, it is said to be truly alive and self-expressive. The human, or physical, nature of man, according to this doctrine, is a tomb, a quagmire, a false and impermanent thing, the source of all sorrow and suffering. Plato describes the body as the sepulcher of the soul; and by this he means not only the human form but also the human nature.
+
+![](/images/loop-09.png)
+
+* <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/13433061814907304828495733336145460039256652925841842689972098320843682086913" target="blank"> **Punt**</a>  - (_Click to navigate to the video)_
+
+  Punt was an ancient kingdom . The "Land of the God" . A trading partner of Ancient Egypt, it was known for producing and exporting gold, aromatic resins, blackwood, ebony, ivory and wild animals.

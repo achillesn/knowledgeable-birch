@@ -9,7 +9,7 @@ img_src: ''
 
 ---
 My new video-art project. Images and music inspired from the Ancient Mysteries. The idea was based on creating a generally, symmetrical pattern, where beginning and end would coincide. So every time a cycle ends, a completely new one begins, which is always determined by the observer/listener's point of focus, both visually and auditory. Thus each work in the mirrors of the Mysteries is created with the idea of moving perpetually through time, exactly like the idea of ancient Mysteries that will never cease to exist and move the human imagination. Possible symbolisms that may be presented are completely random and have absolutely nothing to do with the essence that the art-work hopes to address: To act like a magic mirror, revealing to everyone the entrance to the world of fantasy.
-All videos and musical compositions are created by Achilles Nasios in 2022. You can also find as NFTs on <a href="https://opensea.io/collection/the-mirrors-of-mysteries" target="blank"> **open sea.io**</a> 
+All videos and musical compositions are created by Achilles Nasios in 2022. You can also find as NFTs on <a href="https://opensea.io/collection/the-mirrors-of-mysteries" target="blank"> **open sea.io**</a>
 
 ![](/images/01-mama-quilla.jpg)
 
@@ -23,3 +23,8 @@ All videos and musical compositions are created by Achilles Nasios in 2022. You 
 
   In the 19th century archaeologists exploring the ancient ruins of Nineveh discovered 22,000 clay tablets which are directly connected to the Anunnaki. The ancient Sumerians claim that they obtained their knowledge of past events from the teachings and writings of the Anunnaki (“Those Who from Heaven to Earth Came”). According to the Ancient Alien theory, the Anunnaki genetically altered primitive mankind and created a labor force which allowed them to mine gold faster.
 
+![](/images/hierophant.jpg)
+
+* <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/13433061814907304828495733336145460039256652925841842689972098317545147203585" target="blank"> **Hierophant**</a>  - (_Click to navigate to the video)_
+
+  Hierophant was the title of the chief priest at the Eleusinian Mysteries. Symbolized also all things that was righteous and sacred on the manifest side. As such, he was the channel of grace belonging to the world of institution as distinct from that of Nature, and he was the leader of salvation for the human race at large.

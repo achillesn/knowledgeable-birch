@@ -40,3 +40,9 @@ All videos and musical compositions are created by Achilles Nasios in 2022. You 
 * <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/13433061814907304828495733336145460039256652925841842689972098319744170459137" target="blank"> **Sibyl**</a>  - (_Click to navigate to the video)_
 
   Sibyl were prophetesses or oracles in Ancient Greece. The sibyls prophesied at holy sites. At first, there appears to have been only a single Sibyl. “The Sibyl, with frenzied mouth uttering things not to be laughed at, unadorned and unperfumed, yet reaches to a thousand years with her voice by aid of the god.” _Heraklitus_
+
+![](/images/quipu.jpg)
+
+* <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/13433061814907304828495733336145460039256652925841842689972098318644658831361" target="blank"> **Qhipu**</a>  - (_Click to navigate to the video)_
+
+  The word “Qhipu” comes from the Quechuan word for knot, and is used for both singular and plural forms of the noun. Some Qhipu have as many as 2,000 strings attached to the main cord. Each string may have several knots, the type and location of which convey different types of information.

@@ -8,7 +8,12 @@ date: 2022-02-17 23:00:00 +0000
 img_src: ''
 
 ---
-A new video-art project. Images and music inspired from the Ancient Mysteries. The idea was based on creating a generally, symmetrical pattern, where beginning and end would coincide. So every time a cycle ends, a completely new one begins, which is always determined by the observer/listener's point of focus, both visually and auditory. Thus each work in the mirrors of the Mysteries is created with the idea of moving perpetually through time, exactly like the idea of ancient Mysteries that will never cease to exist and move the human imagination. Possible symbolisms that may be presented are completely random and have absolutely nothing to do with the essence that the art-work hopes to address: To act like a magic mirror, revealing to everyone the entrance to the world of fantasy. All videos and musical compositions are created by Achilles Nasios in 2022. You can also find as NFTs on <a href="https://opensea.io/collection/the-mirrors-of-mysteries" target="blank"> **open sea.io**</a>
+Video-art project. Images and music inspired from the Ancient Mysteries. 
+
+After many years of studying the symmetry and it's properties, I finally decided to make use of it. I used light and shadow, considering both as indelible elements that could depict the myth both symbolically and actually. When I finally discovered the work method to get the desired results, I began an intensive work of synthesis. I started composing music and synchronizing it with image.  
+The idea was based on creating a generally, symmetrical pattern, where beginning and end would coincide. So every time a cycle ends, a completely new one begins, which is always determined by the observer/listener's point of focus, both visually and auditory. Thus each work in the mirrors of the Mysteries is created with the idea of moving perpetually through time, exactly like the idea of ancient Mysteries that will never cease to exist and move the human imagination. Possible symbolisms that may be presented are completely random and have absolutely nothing to do with the essence that the art-work hopes to address: To act like a magic mirror, revealing to everyone the entrance to the world of fantasy. 
+
+All videos and musical compositions are created by Achilles Nasios in 2022. You can also find as NFTs on <a href="https://opensea.io/collection/the-mirrors-of-mysteries" target="blank"> **open sea.io**</a>
 
 ![](/images/01-mama-quilla.jpg)
 
@@ -30,9 +35,9 @@ A new video-art project. Images and music inspired from the Ancient Mysteries. T
 
 ![](/images/14-aditya.jpg)
 
-*  <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/13433061814907304828495733336145460039256652925841842689972098316445635575809" target="blank"> **Aditya**</a>  - (_Click to navigate to the video)_
+* <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/13433061814907304828495733336145460039256652925841842689972098316445635575809" target="blank"> **Aditya**</a>  - (_Click to navigate to the video)_
 
-  Several thousand years ago, before the dawn of historical times, in a remote region of the Himalayas lived a group of remarkable individuals whose existence is shrouded in mystery. The Rishis. These beings are considered ancient sages that possessed divine knowledge. They where seers, they had the gift of inner vision and could see the past, present, and future. Aditya was one of the 4 Rishis.
+Several thousand years ago, before the dawn of historical times, in a remote region of the Himalayas lived a group of remarkable individuals whose existence is shrouded in mystery. The Rishis. These beings are considered ancient sages that possessed divine knowledge. They where seers, they had the gift of inner vision and could see the past, present, and future. Aditya was one of the 4 Rishis.
 
 ![](/images/sibyl-1.png)
 

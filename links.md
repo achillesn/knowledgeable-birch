@@ -7,9 +7,6 @@ menu:
     weight: 3
 
 ---
-**PHOTOGRAPHIC ART COLLECTION:**  
-<a href="https://artportable.com/en/profile/@achilles.nasios" target="blank">artportable.com</a>
-
 **HOCUS PHOTUS NETWORK:**  
 <a href="https://hocusphotus.com/" target="blank">hocusphotus.com/</a>
 
@@ -27,5 +24,3 @@ menu:
 **NFT_ART COLLECTIONS:**
 
 <a href="https://opensea.io/Anikon" target="blank">opensea.io/Anikon</a>
-
-<a href="https://objkt.com/profile/tz1Xc2qxwZsC5VtQKjccZwi4FZ24yNjiMNHj/activity" target="blank">objkt.com</a>

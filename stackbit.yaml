@@ -1,4 +1,4 @@
-stackbitVersion: ~0.2.0
+stackbitVersion: ~0.4.0
 ssgName: jekyll
 ssgVersion: 0.1.12
 buildCommand: ./ssg-build.sh

@@ -11,7 +11,7 @@ menu:
 <a href="https://hocusphotus.com/" target="blank">hocusphotus.com/</a>
 
 **PHOTO-GAMES:**  
-<a href="https://photogames.tk/" target="blank">photogames.tk</a>
+<a href="https://photogames.eu/" target="blank">photogames.eu</a>
 
 **PHASES MAGAZINE:**
 

@@ -15,11 +15,11 @@ menu:
 
 **PHASES MAGAZINE:**
 
-<a href="https://www.phasesmag.com/achilles-nasios/">Achilles Nasios</a>
+<a href="https://www.phasesmag.com/achilles-nasios/" target="blank">Achilles Nasios</a>
 
 **imperfect id** (music project)
 
-<a href="https://imperfectid.com/">imperfectid.com</a>
+<a href="https://imperfectid.com/" target="blank">imperfectid.com</a>
 
 **NFT_ART COLLECTIONS:**
 

@@ -29,7 +29,7 @@ In 2020 he co-founded the band **Imperfect ID.**
 **Exhibitions:**
 
 **2024** - Foiniki Art Festival, Thesprotia, Greece (Photo and video-art installation - music performance)
-**2018** - FAOS Theatre in Igoumenitsa, Greece (Music performance)
+**2023** - FAOS Theatre in Igoumenitsa, Greece (Music performance)
 **2019** - iFocus photo gallery, Athens, Greece (Photo installation)  
 **2018** - Museum of Photography, Thessalonica, Greece (Photography)  
 \- Gallery En Plo, Paphos, Cyprus (Photography)  

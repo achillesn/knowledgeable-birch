@@ -28,6 +28,7 @@ In 2020 he co-founded the band **Imperfect ID.**
 
 **Exhibitions:**
 
+**2025** - Athens Digital Arts Festival (ADAF ´21), Athens, Greece (Video-Art Game #1)
 **2024** - Foiniki Art Festival, Thesprotia, Greece (Photo and video-art installation - music performance)
 **2023** - FAOS Theatre in Igoumenitsa, Greece (Music performance)
 **2019** - iFocus photo gallery, Athens, Greece (Photo installation)  

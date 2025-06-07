@@ -7,7 +7,8 @@ menu:
     weight: 3
 
 ---
-**HOCUS PHOTUS NETWORK:**  
+**HOCUS PHOTUS NETWORK:** 
+
 <a href="https://hocusphotus.godaddysites.com/" target="blank">hocusphotus.godaddysites.com/</a>
 
 <a href="https://hocusphotus.com/" target="blank">hocusphotus.com/</a>

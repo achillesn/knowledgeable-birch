@@ -7,7 +7,7 @@ menu:
     weight: 2
 
 ---
-Achilles Nasios is an art-photographer, video-artist, art-teacher and performer. He was born and rased in Greece.
+Achilles Nasios is an art-photographer, video-artist, musician, writter, performer and educator. He was born and rased in Greece.
 
 **Studies:**
 
@@ -23,7 +23,7 @@ From 1995-2007 he taught theory and applied Art Photography in the University of
 After 2007 he moved to Sweden where he continued teaching through the net and organizing workshops, participating in exhibitions but also curating them up to now. He also founded the independed digital film production company **Anikon**.
 
 From 2015 onwards he started developing the <a href="https://photogames.eu/all_about/" target="blank">**PhotoGames**</a>, a new pedagogic method of approaching photography based on games. Until this very day several types of photo games have been played successfully in Greece, Cyprus and Sweden.  
-In 2019 he co-founded the Network of Arts and Sciences <a href="https://hocusphotus.com/" target="blank">**Hocus Photus**</a>.  
+In 2019 he co-founded the Creative Network <a href="https://hocusphotus.com/" target="blank">**Hocus Photus**</a>.  
 
 **Exhibitions:**
 

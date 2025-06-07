@@ -8,6 +8,8 @@ menu:
 
 ---
 **HOCUS PHOTUS NETWORK:**  
+<a href="https://hocusphotus.godaddysites.com/" target="blank">hocusphotus.godaddysites.com/</a>
+
 <a href="https://hocusphotus.com/" target="blank">hocusphotus.com/</a>
 
 **PHOTO-GAMES:**  
@@ -17,16 +19,11 @@ menu:
 
 <a href="https://www.phasesmag.com/achilles-nasios/" target="blank">Achilles Nasios</a>
 
-**imperfect id** (music project)
-
-<a href="https://imperfectid.com/" target="blank">imperfectid.com</a>
-
-**NFT_ART COLLECTIONS:**
-
-<a href="https://opensea.io/Anikon" target="blank">opensea.io/Anikon</a>
-
 **INTERVIEWS**
 
 <a href="https://www.photologio.gr/interviews/achilles-nasios/" target="blank">Photologio.gr</a>
 
 <a href="https://www.ifocus.gr/magazine/interviews/2361-achilleas-nasios-photo-games-hocus-photus" target="blank">ifocus.gr</a>
+
+<a href="[https://theepochtimes.gr/synchron-e-cities-mia-ekthesi-fotografias-kai-kata/" target="blank">the epochtimes.gr</a>
+

@@ -1,1 +1,42 @@
+backend:
+  name: github
+  repo: achillesn/knowledgeable-birch
+  branch: master
 
+media_folder: "images"
+public_folder: "/images"
+
+collections:
+  - name: posts
+    label: Posts
+    folder: "_posts"
+    create: true
+    extension: "md"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { name: title, label: "Page Title", widget: string }
+      - name: home_style
+        label: "Home Thumbnail Style"
+        hint: "The style used for the home thumbnail"
+        widget: select
+        options: [style1, style2, style3, style4, style5, style6, style7]
+      - { name: home_img, label: "Home Thumbnail Image", widget: image, required: false, hint: "The Image displayed in the home thumbnail on hover" }
+      - { name: excerpt, label: "Excerpt", widget: markdown, required: false, hint: "The text displayed in the home thumbnail on hover" }
+      - { name: date, label: "Post Date", widget: datetime, format: "YYYY-MM-DD HH:mm:ss" }
+      - { name: img_src, label: "Content Image", widget: image, required: false, hint: "The Image displayed in the content section of the page" }
+      - { name: layout, label: "Layout", widget: hidden, default: page }
+      - { name: body, label: "Body", widget: markdown }
+
+  - name: pages
+    label: Pages
+    files:
+      - { name: about, label: "About", file: "about.md", fields: &page_fields [
+          { name: title, label: "Page Title", widget: string },
+          { name: img_src, label: "Content Image", widget: image, required: false, hint: "The Image displayed in the content section of the page" },
+          { name: layout, label: "Layout", widget: hidden, default: page },
+          { name: body, label: "Body", widget: markdown, required: false }
+        ] }
+      - { name: dictum, label: "Dictum", file: "dictum.md", fields: *page_fields }
+      - { name: dictum-gr, label: "Dictum (GR)", file: "dictum-gr.md", fields: *page_fields }
+      - { name: links, label: "Links", file: "links.md", fields: *page_fields }
+      - { name: links-1, label: "Links 1", file: "links-1.md", fields: *page_fields }

@@ -9,3 +9,8 @@ group :jekyll_plugins do
     gem "jekyll-paginate-v2", "~> 1.9"
     gem "jekyll-paginate", "~> 1.1"
 end
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"
+gem "ostruct"

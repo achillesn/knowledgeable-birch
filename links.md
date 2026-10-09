@@ -23,5 +23,3 @@ menu:
 **INTERVIEWS**
 
 <a href="https://www.photologio.gr/interviews/achilles-nasios/" target="blank">Photologio.gr</a>
-
-<a href="https://www.ifocus.gr/magazine/interviews/2361-achilleas-nasios-photo-games-hocus-photus" target="blank">ifocus.gr</a>

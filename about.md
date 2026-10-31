@@ -1,12 +1,12 @@
 ---
-layout: page
 title: About
-img_src: "/images/Axilleas14_aravantinoue_IMG_2906.jpg"
+img_src: /images/Axilleas14_aravantinoue_IMG_2906.jpg
+layout: page
 menu:
   main:
     weight: 2
-
 ---
+
 Achilles Nasios is an art-photographer, video-artist, musician, writter, performer and educator. He was born and rased in Greece.
 
 **Studies:**
@@ -27,7 +27,7 @@ In 2019 he co-founded the Creative Network <a href="https://hocusphotus.com/" ta
 
 **Exhibitions:**
 
-**2025** - Selected to participate in Larnaca Biennale in Okt. 2025 (video-art)
+**2025** - Larnaca Biennale in Okt. 2025. Cross Covariances (video-art)
 **2025** - TAF The Art Foundation, Athens, Greece. SYNCHRON-e-CITIES (curating, organising)
 **2025** - Athens Digital Arts Festival (ADAF ´21), Athens, Greece (Video-Art Game #1)
 **2024** - Foiniki Art Festival, Thesprotia, Greece (Photo and video-art installation - music performance)

@@ -27,12 +27,12 @@ In 2019 he co-founded the Creative Network <a href="https://hocusphotus.com/" ta
 
 **Exhibitions:**
 
-**2025** - Larnaca Biennale in Okt. 2025. Cross Covariances (video-art)
-**2025** - TAF The Art Foundation, Athens, Greece. SYNCHRON-e-CITIES (curating, organising)
-**2025** - Athens Digital Arts Festival (ADAF ´21), Athens, Greece (Video-Art Game #1)
-**2024** - Foiniki Art Festival, Thesprotia, Greece (Photo and video-art installation - music performance)
-**2023** - FAOS Theatre in Igoumenitsa, Greece (Music performance)
-**2019** - iFocus photo gallery, Athens, Greece (Photo installation)  
+**2025** - Larnaca Biennale in Okt. 2025. Cross Covariances (video-art)  
+**2025** - TAF The Art Foundation, Athens, Greece. SYNCHRON-e-CITIES (curating, organising)  
+**2025** - Athens Digital Arts Festival (ADAF ´21), Athens, Greece (Video-Art Game #1)  
+**2024** - Foiniki Art Festival, Thesprotia, Greece (Photo and video-art installation - music performance)  
+**2023** - FAOS Theatre in Igoumenitsa, Greece (Music performance)  
+**2019** - iFocus photo gallery, Athens, Greece (Photo installation) 
 **2018** - Museum of Photography, Thessalonica, Greece (Photography)  
 \- Gallery En Plo, Paphos, Cyprus (Photography)  
 **2017** - Trii Art Hub Gallery, Athens, Greece (Photo-installation)  
